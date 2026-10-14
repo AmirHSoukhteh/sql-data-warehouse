@@ -253,3 +253,9 @@ sql-data-warehouse/
 ## License
 
 This project is licensed under the [MIT License](./LICENSE). You are free to use, modify, and distribute the project in accordance with the license terms.
+
+---
+
+## Acknowledgements
+
+Special thanks to **[DataWithBaraa](https://github.com/DataWithBaraa/)** for their guidance.
