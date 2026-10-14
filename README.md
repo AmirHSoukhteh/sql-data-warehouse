@@ -20,7 +20,6 @@ A SQL Server data warehouse project that integrates CRM and ERP data, implements
 - [Technology Stack](#technology-stack)
 - [Data Sources](#data-sources)
 - [Data Warehouse Layers](#data-warehouse-layers)
-- [Analytics & Reporting](#analytics--reporting)
 - [Getting Started](#getting-started)
 - [Repository Structure](#repository-structure)
 - [Documentation](#documentation)
