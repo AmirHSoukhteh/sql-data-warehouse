@@ -250,12 +250,17 @@ sql-data-warehouse/
 | [Data Catalog](./docs/data_catalog.md) | Gold-layer field definitions and metadata |
 
 
+## Acknowledgments
+
+Special thanks to [Data with Baraa](https://www.youtube.com/@DataWithBaraa) for the educational resources and guidance that helped me develop my understanding of SQL-based data analytics.
+
+## Author
+
+**Amir Hossein Soukhteh**
+
+- **GitHub:** [@AmirHSoukhteh](https://github.com/AmirHSoukhteh)
+- **Portfolio:** [amirhsoukhteh.github.io](https://amirhsoukhteh.github.io)
+
 ## License
 
-This project is licensed under the [MIT License](./LICENSE). You are free to use, modify, and distribute the project in accordance with the license terms.
-
----
-
-## Acknowledgements
-
-Special thanks to **[DataWithBaraa](https://github.com/DataWithBaraa/)** for their guidance.
+This project is licensed under the [MIT License](LICENSE). See the `LICENSE` file for details.
